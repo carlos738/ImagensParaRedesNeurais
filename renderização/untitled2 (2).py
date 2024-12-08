@@ -43,7 +43,7 @@ plt.axis('off')
 # imagem binarizada
 plt.subplot(1,3,3)
 plt.imshow(img_binary,cmap='gray')
-plt.title('Imgafem binarizada')
+plt.title('Imagem binarizada')
 plt.axis('off')
 
 plt.show()
